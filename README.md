@@ -56,7 +56,7 @@ bhargavi@server:~$ cat about.txt
   ║  Role       │  Software Development Engineer             ║
   ║  Location   │  India 🇮🇳                                  ║
   ║  Status     │  Exploring AI&ML                           ║
-  ║  Email      │  satyamkumarsinghjaisidih@gmail.com        ║
+  ║  Email      │  bbhargavi360@gmail.com                    ║
   ╚══════════════════════════════════════════════════════════╝
 
 bhargavi@server:~$ █
@@ -186,24 +186,6 @@ bhargavi@server:~$ █
 </div>
 
 <br/>
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bhargavi360&show_icons=true&bg_color=0D1117&title_color=4ade80&icon_color=4ade80&text_color=bbf7d0&border_color=1f2937&hide_border=false&rank_icon=github"
-    alt="Bhargavi's GitHub Stats"
-    height="170em"
-  />
-
-  &nbsp;&nbsp;
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi360&layout=compact&bg_color=0D1117&title_color=4ade80&text_color=bbf7d0&border_color=1f2937&hide_border=false"
-    alt="Top Languages"
-    height="170em"
-  />
-
-</div>
 
 <br/>
 
