@@ -29,7 +29,7 @@
 bhargavi@developer:~$ cat about.txt
 
   ╔══════════════════════════════════════════════════════════╗
-  ║  Name       │  Bhargavi Kandula                          ║
+  ║  Name       │  Kandula Bhargavi                       ║
   ║  Role       │  Aspiring Software Developer               ║
   ║  Education  │  B.Tech CSE — AI & Data Science            ║
   ║  Location   │  India 🇮🇳                                  ║
