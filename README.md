@@ -71,6 +71,7 @@ bhargavi@developer:~$ █
 
 **AI, Data & Databases**
 
+![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=38BDF8)
 ![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=38BDF8)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8)
