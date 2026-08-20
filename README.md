@@ -156,12 +156,6 @@ bhargavi@server:~$ █
 
 ---
 
-<div align="center">
-<h2>📡 Telemetry Data</h2>
-<p><i><code>bhargavi@server:~$ ./fetch-stats.sh --user bhargavi360</code></i></p>
-</div>
-
-<br/>
 
 <div align="center">
 
