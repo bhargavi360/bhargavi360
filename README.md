@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=210&section=header&text=BHARGAVI%20KANDULA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" alt="Bhargavi Kandula" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=210&section=header&text=BHARGAVI%20KANDULA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" alt="Kandula Bhargavi" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Aspiring+Software+Developer;Java+%7C+Data+Structures+%26+Algorithms;Full-Stack+Developer+in+Progress;AI+%26+Generative+AI+Enthusiast;Turning+ideas+into+real-world+projects" alt="Typing SVG" />
 
@@ -14,7 +14,6 @@
 
   <br /><br />
 
-  <img src="https://komarev.com/ghpvc/?username=bhargavi360&label=PROFILE+VIEWS&color=38BDF8&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -31,11 +30,11 @@ bhargavi@developer:~$ cat about.txt
 
   ╔══════════════════════════════════════════════════════════╗
   ║  Name       │  Bhargavi Kandula                          ║
-  ║  Role       │  Aspiring Software Developer              ║
-  ║  Education  │  B.Tech CSE — AI & Data Science           ║
-  ║  Location   │  India 🇮🇳                                 ║
-  ║  Focus      │  Java + DSA + Full-Stack Development      ║
-  ║  Exploring  │  AI + Generative AI                       ║
+  ║  Role       │  Aspiring Software Developer               ║
+  ║  Education  │  B.Tech CSE — AI & Data Science            ║
+  ║  Location   │  India 🇮🇳                                  ║
+  ║  Focus      │  Java + DSA + Full-Stack Development       ║
+  ║  Exploring  │  AI + Generative AI                        ║
   ║  Status     │  Building & Learning 🚀                    ║
   ╚══════════════════════════════════════════════════════════╝
 
@@ -65,19 +64,21 @@ bhargavi@developer:~$ █
 ![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=38BDF8)
 ![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8)
 ![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=next.js&logoColor=38BDF8)
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=38BDF8)
 ![Express](https://img.shields.io/badge/Express-0F172A?style=for-the-badge&logo=express&logoColor=38BDF8)
 ![Flask](https://img.shields.io/badge/Flask-0F172A?style=for-the-badge&logo=flask&logoColor=38BDF8)
 
-**AI, Data & Databases**
+
+**AI & Data**
 
 ![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=38BDF8)
 ![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=38BDF8)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8)
-![OpenAI](https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8)
+
+**Databases**
+
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=38BDF8)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=38BDF8)
-![Firebase](https://img.shields.io/badge/Firebase-0F172A?style=for-the-badge&logo=firebase&logoColor=38BDF8)
+
 
 **Foundations & Tools**
 
@@ -85,7 +86,10 @@ bhargavi@developer:~$ █
 ![OOP](https://img.shields.io/badge/OOP-0F172A?style=for-the-badge&logo=openjdk&logoColor=38BDF8)
 ![DBMS](https://img.shields.io/badge/DBMS-0F172A?style=for-the-badge&logo=mysql&logoColor=38BDF8)
 ![OS](https://img.shields.io/badge/Operating_Systems-0F172A?style=for-the-badge&logo=linux&logoColor=38BDF8)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-0F172A?style=for-the-badge&logo=cisco&logoColor=38BDF8)
 ![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=38BDF8)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8)
+![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8)
 ![Postman](https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=38BDF8)
 
 ## 📊 GitHub Telemetry
@@ -93,8 +97,10 @@ bhargavi@developer:~$ █
 `bhargavi@developer:~$ ./fetch-stats.sh --user bhargavi360`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhargavi360&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF" height="170" alt="Bhargavi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi360&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=FFFFFF" height="170" alt="Top languages" />
+  <div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhargavi360&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=38BDF8&amp;icon_color=38BDF8&amp;text_color=FFFFFF" height="170" alt="Bhargavi's GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhargavi360&amp;layout=compact&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=38BDF8&amp;text_color=FFFFFF" height="170" alt="Top languages" />
+</div>
 </div>
 
 <div align="center">
