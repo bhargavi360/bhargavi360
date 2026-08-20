@@ -54,7 +54,7 @@ bhargavi@server:~$ cat about.txt
   ║  Role       │  Aspiring Software Development Engineer    ║
   ║  Location   │  India 🇮🇳                                  ║
   ║  Status     │  Exploring AI&ML                           ║
-  ║  Email      │  bbhargavi360@gmail.com        ║
+  ║  Email      │  bbhargavi360@gmail.com                    ║
   ╚══════════════════════════════════════════════════════════╝
 
 bhargavi@server:~$ █
