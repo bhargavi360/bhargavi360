@@ -43,22 +43,24 @@
 <h2>⚡ System Boot Log</h2>
 </div>
 
-
+```bash
 ┌──────────────────────────────────────────────────────────────┐
-│                   Bhargavi TERMINAL v1.0                     │
+│                   Bhargavi TERMINAL v1.0                       │
 └──────────────────────────────────────────────────────────────┘
 
 bhargavi@server:~$ cat about.txt
 
   ╔══════════════════════════════════════════════════════════╗
-  ║  Role       │  Software Development Engineer             ║
+  ║  Role       │  Aspiring Software Development Engineer    ║
   ║  Location   │  India 🇮🇳                                  ║
   ║  Status     │  Exploring AI&ML                           ║
-  ║  Email      │  bbhargavi360@gmail.com                    ║
+  ║  Email      │  bbhargavi360@gmail.com        ║
   ╚══════════════════════════════════════════════════════════╝
 
 bhargavi@server:~$ █
+```
 
+<br/>
 
 <div align="center">
 <h2>🛠️ Technical Arsenal</h2>
