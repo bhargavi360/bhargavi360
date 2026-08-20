@@ -43,6 +43,7 @@
 <h2>⚡ System Boot Log</h2>
 </div>
 
+
 ┌──────────────────────────────────────────────────────────────┐
 │                   Bhargavi TERMINAL v1.0                     │
 └──────────────────────────────────────────────────────────────┘
@@ -58,7 +59,6 @@ bhargavi@server:~$ cat about.txt
 
 bhargavi@server:~$ █
 
-<br/>
 
 <div align="center">
 <h2>🛠️ Technical Arsenal</h2>
