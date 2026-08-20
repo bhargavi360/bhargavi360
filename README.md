@@ -164,21 +164,56 @@ bhargavi@server:~$ █
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhargavi360&theme=dark&background=0D1117&fire=4ade80&ring=4ade80&currStreakLabel=4ade80&sideNums=bbf7d0&currStreakNum=4ade80&sideLabels=4ade80&dates=6b7280&border=1f2937&hide_border=false" alt="Bhargavi's GitHub Streak" height="180em"/>
+
+  <h2>📡 Telemetry Data</h2>
+
+  <p>
+    <i><code>bhargavi@server:~$ ./fetch-stats.sh --user bhargavi360</code></i>
+  </p>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhargavi360&show_icons=true&bg_color=0D1117&title_color=4ade80&icon_color=4ade80&text_color=bbf7d0&border_color=1f2937&hide_border=false&rank_icon=github" height="170em" />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=bhargavi360&theme=dark&background=0D1117&fire=4ade80&ring=4ade80&currStreakLabel=4ade80&sideNums=bbf7d0&currStreakNum=4ade80&sideLabels=4ade80&dates=6b7280&border=1f2937&hide_border=false"
+    alt="Bhargavi's GitHub Streak"
+    height="180em"
+  />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bhargavi360&show_icons=true&bg_color=0D1117&title_color=4ade80&icon_color=4ade80&text_color=bbf7d0&border_color=1f2937&hide_border=false&rank_icon=github"
+    alt="Bhargavi's GitHub Stats"
+    height="170em"
+  />
+
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi360&layout=compact&bg_color=0D1117&title_color=4ade80&text_color=bbf7d0&border_color=1f2937&hide_border=false" height="170em" />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi360&layout=compact&bg_color=0D1117&title_color=4ade80&text_color=bbf7d0&border_color=1f2937&hide_border=false"
+    alt="Top Languages"
+    height="170em"
+  />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhargavi360&bg_color=0D1117&color=4ade80&line=4ade80&point=bbf7d0&area=true&area_color=0d2818&hide_border=true" alt="Activity Graph" />
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bhargavi360&bg_color=0D1117&color=4ade80&line=4ade80&point=bbf7d0&area=true&area_color=0d2818&hide_border=true"
+    alt="Activity Graph"
+  />
+
 </div>
 
 <br/>
@@ -186,9 +221,19 @@ bhargavi@server:~$ █
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhargavi360&label=👁️+Profile+Views&color=4ade80&style=flat-square" alt="Profile views" />
+
+  <img
+    src="https://komarev.com/ghpvc/?username=bhargavi360&label=👁️+Profile+Views&color=4ade80&style=flat-square"
+    alt="Profile Views"
+  />
+
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/bhargavi360?label=Followers&style=flat-square&color=4ade80&labelColor=0D1117" alt="Followers" />
+
+  <img
+    src="https://img.shields.io/github/followers/bhargavi360?label=Followers&style=flat-square&color=4ade80&labelColor=0D1117"
+    alt="Followers"
+  />
+
 </div>
 
 <br/>
