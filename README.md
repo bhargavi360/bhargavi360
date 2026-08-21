@@ -44,7 +44,6 @@
 </div>
 
 ```bash
-👋 About Me
 
 bhargavi@server:~$ cat about_me.txt
 
