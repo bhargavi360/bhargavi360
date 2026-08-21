@@ -44,18 +44,18 @@
 </div>
 
 ```bash
-┌──────────────────────────────────────────────────────────────┐
-│                   Bhargavi TERMINAL v1.0                       │
-└──────────────────────────────────────────────────────────────┘
+👋 About Me
 
-bhargavi@server:~$ cat about.txt
+bhargavi@server:~$ cat about_me.txt
 
-  ╔══════════════════════════════════════════════════════════╗
-  ║  Role       │  Aspiring Software Development Engineer    ║
-  ║  Location   │  India 🇮🇳                                  ║
-  ║  Status     │  Exploring AI&ML                           ║
-  ║  Email      │  bbhargavi360@gmail.com                    ║
-  ╚══════════════════════════════════════════════════════════╝
+Hello! I'm Kandula Bhargavi 👋
+
+🎓 B.Tech CSE Student
+💻 Aspiring Software Development Engineer
+🧠 Passionate about DSA, Java ,MERN Stack
+🌐 Exploring AI&ML
+🚀 Building projects and solving real-world problems
+🇮🇳 Based in India
 
 bhargavi@server:~$ █
 ```
