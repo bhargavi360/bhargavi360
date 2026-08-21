@@ -1,7 +1,7 @@
 <!-- Terminal-Themed GitHub Profile README -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Kandula%20Bhargavi&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Open%20to%20Campus%20Placements&descAlignY=58&descSize=15&descColor=94d4f7"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Kandula%20Bhargavi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Open%20to%20Campus%20Placements&descAlignY=58&descSize=15&descColor=94d4f7"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=700&lines=Initializing+system...;Loading+Kandula+Bhargavi...;bhargavi360%40server%3A~%24+whoami;%3E+Aspiring+Software+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 
