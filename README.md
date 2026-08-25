@@ -185,5 +185,5 @@ bhargavi@server:~$ █
 
 <br/>
 
-  <i><code>[ CONNECTION ESTABLISHED · SYSTEM OPTIMAL · KEEP BUILDING 🚀 ]</code></i>
+  <i><code>[ SYSTEM OPTIMAL · KEEP BUILDING 🚀 ]</code></i>
 </div>
