@@ -43,21 +43,31 @@
 <h2>⚡ System Boot Log</h2>
 </div>
 
-```bash
+<!-- About Me Section -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-bhargavi@server:~$ cat about_me.txt
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-Hello! I'm Kandula Bhargavi 👋
-
-🎓 B.Tech CSE Student
-💻 Aspiring Software Development Engineer
-🧠 Passionate about DSA, Java ,MERN Stack
-🌐 Exploring AI&ML
-🚀 Building projects and solving real-world problems
-🇮🇳 Based in India
-
-bhargavi@server:~$ █
+```javascript
+const Kandula Bhargavi = {
+    pronouns: "she/her",
+    location: "India 🇮🇳",
+    currentFocus: "SOFTWARE DEVELOPMENT 🔭",
+    learning: ["MERN Stack", "System Design"],
+    interests: ["Problem Solving", "Web Development", "AI/ML"],
+    motto: "Bugs in my head never make me sleep ^_^",
+    
+    lifeLoop: function() {
+        while(alive) {
+            eat();
+            code();
+            solve();
+            repeat();
+        }
+    }
+};
 ```
+
 
 <br/>
 
