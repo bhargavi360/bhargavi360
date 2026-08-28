@@ -54,7 +54,7 @@ const Kandula Bhargavi = {
     location: "India 🇮🇳",
     currentFocus: "SOFTWARE DEVELOPMENT 🔭",
     learning: ["MERN Stack", "System Design"],
-    interests: ["Problem Solving", "Web Development", "AI/ML"],
+    interests: [ "Software Engineer", "AI/ML"],
     motto: "Bugs in my head never make me sleep ^_^",
     
     lifeLoop: function() {
